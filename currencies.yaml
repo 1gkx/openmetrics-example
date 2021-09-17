@@ -1,0 +1,9 @@
+currencies:
+  - name: usd
+    value: 70
+  - name: eur
+    value: 80
+  - name: blg
+    value: 180
+  - name: bitcoin
+    value: 8000
